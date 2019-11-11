@@ -1,4 +1,4 @@
-![gaston](tests/gaston)
+![gaston](gaston)
 
 ## ABOUT :
 
