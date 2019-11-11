@@ -1,4 +1,4 @@
-![gaston](gaston)
+![gaston](gaston.png)
 
 ## ABOUT :
 
